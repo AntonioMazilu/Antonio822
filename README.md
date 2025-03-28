@@ -1,8 +1,5 @@
-- 👋 👀 My name is Antonio Mazilu, and I am currently studying at the University of the Peloponnese, Department of Informatics and Telecommunications. 
-- I am passionate on creating innovative technological solutions. I have a strong background in programming and developing on UAV technology in different use cases such as Autonomous Swarm Algorithms, Infrastructure Inspection, Agriculture, Aerial Data Analysis, etc. My expertise extends across several areas, including drone piloting, post-quantum cryptography, Apps and chaincodes developed on Hyperledger Fabric.
+Antonio Mazilu is a dedicated researcher and technology professional with expertise in Information and Communication Technologies, currently completing his B.Sc. at the University of the Peloponnese. With a strong foundation in AI, cybersecurity, blockchain, and unmanned aerial systems, he combines technical proficiency with innovative problem-solving to advance cutting-edge solutions.
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AntonioMazilu&theme=darcula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AntonioMazilu&theme=darcula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AntonioMazilu&theme=darcula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AntonioMazilu&theme=darcula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AntonioMazilu&theme=darcula&utcOffset=8)
+His research has been published in peer-reviewed venues, addressing critical challenges in IoT forensics, blockchain-based maritime security, and autonomous UAV swarm management. His technical skill set encompasses programming (Java, Python, C, Go), cloud computing (Azure, AWS), and emerging technologies such as distributed ledger systems and embedded drone autonomy.
+
+Committed to both academic rigor and practical applications, Antonio actively engages in conferences, collaborative projects, and open-source development. His work reflects a balance of theoretical depth and real-world impact, driven by a passion for advancing secure and intelligent systems.
